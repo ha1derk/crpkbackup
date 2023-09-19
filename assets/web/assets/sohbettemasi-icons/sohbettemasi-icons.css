@@ -1,0 +1,476 @@
+@font-face {
+  font-family: 'sohbettemasiIcons';
+  src:  url('sohbettemasi-icons0e1c.eot?spat4u');
+  src:  url('sohbettemasi-icons0e1c.eot?spat4u#iefix') format('embedded-opentype'),
+    url('sohbettemasi-icons0e1c.ttf?spat4u') format('truetype'),
+    url('sohbettemasi-icons0e1c.woff?spat4u') format('woff'),
+    url('sohbettemasi-icons0e1c.svg?spat4u#sohbettemasiIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="umiti-"], [class*=" umiti-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: sohbettemasiIcons !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.umiti-add-submenu:before {
+  content: "\e900";
+}
+.umiti-alert:before {
+  content: "\e901";
+}
+.umiti-align-center:before {
+  content: "\e902";
+}
+.umiti-align-justify:before {
+  content: "\e903";
+}
+.umiti-align-left:before {
+  content: "\e904";
+}
+.umiti-align-right:before {
+  content: "\e905";
+}
+.umiti-android:before {
+  content: "\e906";
+}
+.umiti-apple:before {
+  content: "\e907";
+}
+.umiti-arrow-down:before {
+  content: "\e908";
+}
+.umiti-arrow-next:before {
+  content: "\e909";
+}
+.umiti-arrow-prev:before {
+  content: "\e90a";
+}
+.umiti-arrow-up:before {
+  content: "\e90b";
+}
+.umiti-bold:before {
+  content: "\e90c";
+}
+.umiti-bookmark:before {
+  content: "\e90d";
+}
+.umiti-bootstrap:before {
+  content: "\e90e";
+}
+.umiti-briefcase:before {
+  content: "\e90f";
+}
+.umiti-browse:before {
+  content: "\e910";
+}
+.umiti-bulleted-list:before {
+  content: "\e911";
+}
+.umiti-calendar:before {
+  content: "\e912";
+}
+.umiti-camera:before {
+  content: "\e913";
+}
+.umiti-cart-add:before {
+  content: "\e914";
+}
+.umiti-cart-full:before {
+  content: "\e915";
+}
+.umiti-cash:before {
+  content: "\e916";
+}
+.umiti-change-style:before {
+  content: "\e917";
+}
+.umiti-chat:before {
+  content: "\e918";
+}
+.umiti-clock:before {
+  content: "\e919";
+}
+.umiti-close:before {
+  content: "\e91a";
+}
+.umiti-cloud:before {
+  content: "\e91b";
+}
+.umiti-code:before {
+  content: "\e91c";
+}
+.umiti-contact-form:before {
+  content: "\e91d";
+}
+.umiti-credit-card:before {
+  content: "\e91e";
+}
+.umiti-cursor-click:before {
+  content: "\e91f";
+}
+.umiti-cust-feedback:before {
+  content: "\e920";
+}
+.umiti-database:before {
+  content: "\e921";
+}
+.umiti-delivery:before {
+  content: "\e922";
+}
+.umiti-desktop:before {
+  content: "\e923";
+}
+.umiti-devices:before {
+  content: "\e924";
+}
+.umiti-down:before {
+  content: "\e925";
+}
+.umiti-download:before {
+  content: "\e989";
+}
+.umiti-drag-n-drop:before {
+  content: "\e927";
+}
+.umiti-drag-n-drop2:before {
+  content: "\e928";
+}
+.umiti-edit:before {
+  content: "\e929";
+}
+.umiti-edit2:before {
+  content: "\e92a";
+}
+.umiti-error:before {
+  content: "\e92b";
+}
+.umiti-extension:before {
+  content: "\e92c";
+}
+.umiti-features:before {
+  content: "\e92d";
+}
+.umiti-file:before {
+  content: "\e92e";
+}
+.umiti-flag:before {
+  content: "\e92f";
+}
+.umiti-folder:before {
+  content: "\e930";
+}
+.umiti-gift:before {
+  content: "\e931";
+}
+.umiti-github:before {
+  content: "\e932";
+}
+.umiti-globe:before {
+  content: "\e933";
+}
+.umiti-globe-2:before {
+  content: "\e934";
+}
+.umiti-growing-chart:before {
+  content: "\e935";
+}
+.umiti-hearth:before {
+  content: "\e936";
+}
+.umiti-help:before {
+  content: "\e937";
+}
+.umiti-home:before {
+  content: "\e938";
+}
+.umiti-hot-cup:before {
+  content: "\e939";
+}
+.umiti-idea:before {
+  content: "\e93a";
+}
+.umiti-image-gallery:before {
+  content: "\e93b";
+}
+.umiti-image-slider:before {
+  content: "\e93c";
+}
+.umiti-info:before {
+  content: "\e93d";
+}
+.umiti-italic:before {
+  content: "\e93e";
+}
+.umiti-key:before {
+  content: "\e93f";
+}
+.umiti-laptop:before {
+  content: "\e940";
+}
+.umiti-layers:before {
+  content: "\e941";
+}
+.umiti-left-right:before {
+  content: "\e942";
+}
+.umiti-left:before {
+  content: "\e943";
+}
+.umiti-letter:before {
+  content: "\e944";
+}
+.umiti-like:before {
+  content: "\e945";
+}
+.umiti-link:before {
+  content: "\e946";
+}
+.umiti-lock:before {
+  content: "\e947";
+}
+.umiti-login:before {
+  content: "\e948";
+}
+.umiti-logout:before {
+  content: "\e949";
+}
+.umiti-magic-stick:before {
+  content: "\e94a";
+}
+.umiti-map-pin:before {
+  content: "\e94b";
+}
+.umiti-menu:before {
+  content: "\e94c";
+}
+.umiti-mobile:before {
+  content: "\e94d";
+}
+.umiti-mobile2:before {
+  content: "\e94e";
+}
+.umiti-sohbettemasi:before {
+  content: "\e94f";
+}
+.umiti-more-horizontal:before {
+  content: "\e950";
+}
+.umiti-more-vertical:before {
+  content: "\e951";
+}
+.umiti-music:before {
+  content: "\e952";
+}
+.umiti-new-file:before {
+  content: "\e953";
+}
+.umiti-numbered-list:before {
+  content: "\e954";
+}
+.umiti-opened-folder:before {
+  content: "\e955";
+}
+.umiti-pages:before {
+  content: "\e956";
+}
+.umiti-paper-plane:before {
+  content: "\e957";
+}
+.umiti-paperclip:before {
+  content: "\e958";
+}
+.umiti-photo:before {
+  content: "\e959";
+}
+.umiti-photos:before {
+  content: "\e95a";
+}
+.umiti-pin:before {
+  content: "\e95b";
+}
+.umiti-play:before {
+  content: "\e95c";
+}
+.umiti-plus:before {
+  content: "\e95d";
+}
+.umiti-preview:before {
+  content: "\e95e";
+}
+.umiti-print:before {
+  content: "\e95f";
+}
+.umiti-protect:before {
+  content: "\e960";
+}
+.umiti-question:before {
+  content: "\e961";
+}
+.umiti-quote-left:before {
+  content: "\e962";
+}
+.umiti-quote-right:before {
+  content: "\e963";
+}
+.umiti-refresh:before {
+  content: "\e964";
+}
+.umiti-responsive:before {
+  content: "\e965";
+}
+.umiti-right:before {
+  content: "\e966";
+}
+.umiti-rocket:before {
+  content: "\e967";
+}
+.umiti-sad-face:before {
+  content: "\e968";
+}
+.umiti-sale:before {
+  content: "\e969";
+}
+.umiti-save:before {
+  content: "\e96a";
+}
+.umiti-search:before {
+  content: "\e96b";
+}
+.umiti-setting:before {
+  content: "\e96c";
+}
+.umiti-setting2:before {
+  content: "\e96d";
+}
+.umiti-setting3:before {
+  content: "\e96e";
+}
+.umiti-share:before {
+  content: "\e96f";
+}
+.umiti-shopping-bag:before {
+  content: "\e970";
+}
+.umiti-shopping-basket:before {
+  content: "\e971";
+}
+.umiti-shopping-cart:before {
+  content: "\e972";
+}
+.umiti-sites:before {
+  content: "\e973";
+}
+.umiti-smile-face:before {
+  content: "\e974";
+}
+.umiti-speed:before {
+  content: "\e975";
+}
+.umiti-star:before {
+  content: "\e976";
+}
+.umiti-success:before {
+  content: "\e977";
+}
+.umiti-sun:before {
+  content: "\e978";
+}
+.umiti-sun2:before {
+  content: "\e979";
+}
+.umiti-tablet:before {
+  content: "\e97a";
+}
+.umiti-tablet-vertical:before {
+  content: "\e97b";
+}
+.umiti-target:before {
+  content: "\e97c";
+}
+.umiti-timer:before {
+  content: "\e97d";
+}
+.umiti-to-ftp:before {
+  content: "\e97e";
+}
+.umiti-to-local-drive:before {
+  content: "\e97f";
+}
+.umiti-touch-swipe:before {
+  content: "\e980";
+}
+.umiti-touch:before {
+  content: "\e981";
+}
+.umiti-trash:before {
+  content: "\e982";
+}
+.umiti-underline:before {
+  content: "\e983";
+}
+.umiti-unlink:before {
+  content: "\e984";
+}
+.umiti-unlock:before {
+  content: "\e985";
+}
+.umiti-up-down:before {
+  content: "\e986";
+}
+.umiti-up:before {
+  content: "\e987";
+}
+.umiti-update:before {
+  content: "\e988";
+}
+.umiti-upload:before {
+ content: "\e926"; 
+}
+.umiti-user:before {
+  content: "\e98a";
+}
+.umiti-user2:before {
+  content: "\e98b";
+}
+.umiti-users:before {
+  content: "\e98c";
+}
+.umiti-video:before {
+  content: "\e98d";
+}
+.umiti-video-play:before {
+  content: "\e98e";
+}
+.umiti-watch:before {
+  content: "\e98f";
+}
+.umiti-website-theme:before {
+  content: "\e990";
+}
+.umiti-wifi:before {
+  content: "\e991";
+}
+.umiti-windows:before {
+  content: "\e992";
+}
+.umiti-zoom-out:before {
+  content: "\e993";
+}
+.umiti-redo:before {
+  content: "\e994";
+}
+.umiti-undo:before {
+  content: "\e995";
+}
